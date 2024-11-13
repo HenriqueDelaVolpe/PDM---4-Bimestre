@@ -1,9 +1,9 @@
 # PDM---4-Bimestre
 
-Alessandra Cristina
-Isabelle Natale
-Henrique Volpe
-Enzo Copia
+Alessandra Cristina;
+Isabelle Natale;
+Henrique Volpe;
+Enzo Copia e 
 Sofia de Sousa
 
 
